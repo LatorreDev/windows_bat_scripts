@@ -1,0 +1,2 @@
+wsl --shutdown <distro name>
+sleep 2
